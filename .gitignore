@@ -1,0 +1,6 @@
+*.class
+*.log
+.idea
+target/
+.sbt-launch.jar
+.*.swp
